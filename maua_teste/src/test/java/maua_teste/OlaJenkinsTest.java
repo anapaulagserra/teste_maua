@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 public class OlaJenkinsTest {
 	
-	private String resultadoEsperado = "Ola, Jenkins";
+	private String resultadoEsperado = "Ola, Jenkins!";
 	
 	@Test
 	public void test () {
